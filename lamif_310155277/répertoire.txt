@@ -1,3 +1,0 @@
-C:\Users\[Nom]\AppData\Roaming\StardewValley\Saves
-
-Si vous trouvez pas Appdate, cherchez "Run" dans le menu Windows, et écrivez %appdata%" dans la fenêtre 
